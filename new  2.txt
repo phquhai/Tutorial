@@ -1,0 +1,318 @@
+may-lanh
+may-giat
+tu-lanh
+may-nuoc-nong
+may-say-quan-ao
+may-nuoc-nong-lanh
+tu-dong
+tu-mat-tu-giu-lanh
+may-loc-nuoc
+may-loc-khong-khi
+tu-uop-ruou
+may-rua-chen
+dien-lanh
+tivi-man-hinh-lcd
+dan-may-nghe-nhac/"
+dau-dia-dvd-bluray-karaoke/"
+amply-va-loa/"
+dau-thu-truyen-hinh/"
+may-radio-cassette/">
+phu-kien-dien-tu/">
+noi-com-dien/">Nồi cơm điện</a></li>
+bep-gas/">Bếp gas</a></li>
+lo-vi-song-microwave/">Lò vi sóng - Microwave</a></li>
+noi-da-nang/">Nồi đa năng</a></li>
+bo-noi-nau-an/">Bộ nồi nấu ăn</a></li>
+noi-ap-suat/">Nồi áp suất</a></li>
+chao-chong-dinh/">Chảo chống dính</a></li>
+lo-nuong-vi-nuong/">Lò nướng - Vỉ nướng</a></li>
+bep-dien/">Bếp điện</a></li>
+lau-dien-da-nang/">Lẩu điện đa năng</a></li>
+may-xay-sinh-to/">Máy xay sinh tố</a></li>
+may-ep-trai-cay/">Máy ép trái cây</a></li>
+may-xay-dau-nanh/">Máy xay đậu nành</a></li>
+may-xay-thit/">Máy xay thịt</a></li>
+may-danh-trung/">Máy đánh trứng</a></li>
+may-vat-cam/">Máy vắt cam</a></li>
+may-lam-sua-chua/">Máy làm sữa chua</a></li>
+may-hut-khoi-khu-mui/">Máy hút khói - Khử mùi</a></li>
+may-say-chen/">Máy sấy chén</a></li>
+dung-cu-nha-bep/">Dụng cụ nhà bếp</a></li>
+</ul>
+<ul class="more">
+nha-bep/"><span class="view-all">Xem tất cả</span></a></li>
+</ul>
+</div>
+<div class="sub-menu-right">
+<div class="sub-menu-right-wrap">
+<div class="sub-menu-right-banner-top"><a href="http://www.nguyenkim.com/lo-nuong-vi-nuong/?position=Banner_cate_tang_nb_2016_0216 "> <img data-original="images/companies/1/Design/2016/T2/Banner-cate-nganhhang/20160216_cate_tangnhabep.jpg?optimize=N" alt="Lò nướng giá chỉ từ 450,000đ " class="imagelazyload-menu subbanner-right-top-item-image" style="display: inline;" src="images/companies/1/Design/2016/T2/Banner-cate-nganhhang/20160216_cate_tangnhabep.jpg?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom">
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/lo-vi-song-lg-mh6342d.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_nhabep-186_192_1n.png?optimize=N" alt="LÒ VI SÓNG LG MH6342D" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_nhabep-186_192_1n.png?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/noi-com-dien-sharp-ksh-n218v.html"> <img data-original="images/companies/1/Design/2016/T2/Banner-cate-nganhhang/20160216_cate_tangnhabep_small.jpg?optimize=N&quot;" alt="NỒI CƠM ĐIỆN SHARP KSH-N218V" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/2016/T2/Banner-cate-nganhhang/20160216_cate_tangnhabep_small.jpg?optimize=N&quot;"> </a></div>
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/vi-nuong-dien-cuchen-chg-g1000w.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_nhabep-186_192_3n.png?optimize=N" alt="VỈ NƯỚNG ĐIỆN CUCHEN CHG-G1000W" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_nhabep-186_192_3n.png?optimize=N"> </a></div>
+</div>
+</div>
+</div>
+<div id="ascrail2002" class="nicescroll-rails" style="width: 7px; z-index: 999980; cursor: default; position: absolute; top: 0px; left: -7px; height: 442px; display: none;"><div style="position: relative; top: 0px; float: right; width: 5px; height: 0px; border: 1px solid rgb(255, 255, 255); border-radius: 5px; background-color: rgb(66, 66, 66); background-clip: padding-box;"></div></div><div id="ascrail2002-hr" class="nicescroll-rails" style="height: 7px; z-index: 999980; top: 435px; left: 0px; position: absolute; cursor: default; display: none;"><div style="position: relative; top: 0px; height: 5px; width: 0px; border: 1px solid rgb(255, 255, 255); border-radius: 5px; background-color: rgb(66, 66, 66); background-clip: padding-box;"></div></div></div>
+</li>
+<li class="level1 smn-giadung"><a href="/gia-dung/"><i class="sprite sprite-icon-giadung"></i><span>Gia dụng</span></a>
+<div class="sub-menu1" style="width: 762px;">
+<div class="sub-menu-left">
+<ul class="sub-menu2" tabindex="5003" style="overflow: hidden; outline: none;">
+quat-dien-quat-may/">Quạt điện - Quạt máy</a></li>
+may-hut-bui/">Máy hút bụi</a></li>
+ban-ui-ban-la/">Bàn ủi - Bàn là</a></li>
+may-hut-am/">Máy hút ẩm</a></li>
+quat-phun-suong-quat-hoi-nuoc/">Quạt phun sương - Quạt hơi nước</a></li>
+binh-loc-nuoc/">Bình lọc nước</a></li>
+may-pha-ca-phe/">Máy pha cà phê</a></li>
+am-nuoc-binh-nuoc/">Ấm nước - Bình nước</a></li>
+may-may/">Máy may</a></li>
+on-ap/">Ổn áp</a></li>
+den-dien-den-sac/">Đèn điện - Đèn sạc</a></li>
+o-cam-dien/">Ổ cắm điện</a></li>
+vat-dung-ve-sinh/">Vật dụng vệ sinh</a></li>
+san-pham-gia-dung-khac/">Sản phẩm gia dụng khác</a></li>
+</ul>
+<ul class="more">
+gia-dung/"><span class="view-all">Xem tất cả</span></a></li>
+</ul>
+</div>
+<div class="sub-menu-right">
+<div class="sub-menu-right-wrap">
+<div class="sub-menu-right-banner-top"><a href="http://www.nguyenkim.com/ban-ui-philips-gc504.html?position=Banner_cate_tang_gd "> <img data-original="images/companies/1/Design/2016/T1/Banner/20160105_homecate-giadung_bigbang.png?optimize=N" alt="BÀN ỦI PHILIPS GC504" class="imagelazyload-menu subbanner-right-top-item-image" style="display: inline;" src="images/companies/1/Design/2016/T1/Banner/20160105_homecate-giadung_bigbang.png?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom">
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/am-dun-sieu-toc-kangaroo-kg339.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_giadung-186_192_1n.png?optimize=N" alt="ẤM ĐUN SIÊU TỐC KANGAROO KG339" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_giadung-186_192_1n.png?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/ban-ui-philips-gc1418.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_giadung-186_192_2.png?optimize=N" alt="BÀN ỦI PHILIPS GC1418" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_giadung-186_192_2.png?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/may-pha-ca-phe-electrolux-ecm3200r.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_giadung-186_192_3.png?optimize=N" alt="MÁY PHA CÀ PHÊ ELECTROLUX ECM3200R" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_giadung-186_192_3.png?optimize=N"> </a></div>
+</div>
+</div>
+</div>
+<div id="ascrail2003" class="nicescroll-rails" style="width: 7px; z-index: 999980; cursor: default; position: absolute; top: 0px; left: -7px; height: 442px; display: none;"><div style="position: relative; top: 0px; float: right; width: 5px; height: 0px; border: 1px solid rgb(255, 255, 255); border-radius: 5px; background-color: rgb(66, 66, 66); background-clip: padding-box;"></div></div><div id="ascrail2003-hr" class="nicescroll-rails" style="height: 7px; z-index: 999980; top: 435px; left: 0px; position: absolute; cursor: default; display: none;"><div style="position: relative; top: 0px; height: 5px; width: 0px; border: 1px solid rgb(255, 255, 255); border-radius: 5px; background-color: rgb(66, 66, 66); background-clip: padding-box;"></div></div></div>
+</li>
+<li class="level1 smn-vienthong"><a href="/vien-thong/"><i class="sprite sprite-icon-vienthong"></i><span>Viễn thông</span></a>
+<div class="sub-menu1" style="width: 762px;">
+<div class="sub-menu-left">
+<ul class="sub-menu2" tabindex="5004" style="overflow: hidden; outline: none;">
+dien-thoai-di-dong/">Điện thoại di động</a></li>
+may-tinh-bang/">Máy tính bảng</a></li>
+dien-thoai-ban/">Điện thoại bàn</a></li>
+phu-kien-dien-thoai/">Phụ Kiện Điện Thoại</a></li>
+</ul>
+<ul class="more">
+vien-thong/"><span class="view-all">Xem tất cả</span></a></li>
+</ul>
+</div>
+<div class="sub-menu-right">
+<div class="sub-menu-right-wrap">
+<div class="sub-menu-right-banner-top"><a href="http://www.nguyenkim.com/dien-thoai-htc-butterfly-2-mau-trang.html?position=Banner_cate_tang_vt "> <img data-original="images/companies/1/Design/2016/T2/Banner-cate-nganhhang/vienthong.jpg?optimize=N" alt="MÁY TÍNH BẢNG SAMSUNG GALAXY TAB E" class="imagelazyload-menu subbanner-right-top-item-image" style="display: inline;" src="images/companies/1/Design/2016/T2/Banner-cate-nganhhang/vienthong.jpg?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom">
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/samsung-galaxy-a8-sm-a800f-vn-2.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_vienthong-186_192_1n.png?optimize=N" alt="SAMSUNG GALAXY A8" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_vienthong-186_192_1n.png?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/sony-xperia-z5-dual-e6683vn-vang.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_vienthong-186_192_2n.png?optimize=N" alt="SONY XPERIA Z5 DUAL " class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_vienthong-186_192_2n.png?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/dtdd-nokia-lumia-830-black.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_vienthong-186_192_3n.png?optimize=N" alt="ĐIỆN THOẠI NOKIA LUMIA 830" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_vienthong-186_192_3n.png?optimize=N"> </a></div>
+</div>
+</div>
+</div>
+<div id="ascrail2004" class="nicescroll-rails" style="width: 7px; z-index: 999980; cursor: default; position: absolute; top: 0px; left: -7px; height: 442px; display: none;"><div style="position: relative; top: 0px; float: right; width: 5px; height: 0px; border: 1px solid rgb(255, 255, 255); border-radius: 5px; background-color: rgb(66, 66, 66); background-clip: padding-box;"></div></div><div id="ascrail2004-hr" class="nicescroll-rails" style="height: 7px; z-index: 999980; top: 435px; left: 0px; position: absolute; cursor: default; display: none;"><div style="position: relative; top: 0px; height: 5px; width: 0px; border: 1px solid rgb(255, 255, 255); border-radius: 5px; background-color: rgb(66, 66, 66); background-clip: padding-box;"></div></div></div>
+</li>
+<li class="level1 smn-tinhoc"><a href="/tin-hoc/"><i class="sprite sprite-icon-tinhoc"></i><span>Tin học</span></a>
+<div class="sub-menu1" style="width: 762px;">
+<div class="sub-menu-left">
+<ul class="sub-menu2" tabindex="5005" style="overflow: hidden; outline: none;">
+may-tinh-xach-tay/">Máy tính xách tay</a></li>
+may-tinh-de-ban/">Máy tính để bàn</a></li>
+man-hinh-lcd-vi-tinh/">Màn hình vi tính LCD</a></li>
+dan-loa-vi-tinh/">Loa vi tính</a></li>
+phu-kien-tin-hoc/">Phụ Kiện Tin Học </a></li>
+</ul>
+<ul class="more">
+tin-hoc/"><span class="view-all">Xem tất cả</span></a></li>
+</ul>
+</div>
+<div class="sub-menu-right">
+<div class="sub-menu-right-wrap">
+<div class="sub-menu-right-banner-top"><a href="http://www.nguyenkim.com/khuyen-mai-mua-laptop-tra-gop-lai-suat-0.html?position=Banner_cate_tang_th_2016_0409 "> <img data-original="images/companies/1/Design/2016/T2/Banner-cate-nganhhang/20160804_cate_tinhoc_home_v1.jpg?optimize=N" alt="Tặng phẩm tin học" class="imagelazyload-menu subbanner-right-top-item-image" style="display: inline;" src="images/companies/1/Design/2016/T2/Banner-cate-nganhhang/20160804_cate_tinhoc_home_v1.jpg?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom">
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/may-tinh-xach-tay-dell-vostro-3558-6526m1.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_tinhoc-186_192_1.png?optimize=N" alt="MÁY TÍNH XÁCH TAY DELL VOSTRO 3558" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_tinhoc-186_192_1.png?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/acer-aspire-e5-573-34dd-nx.mvhsv.004.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_tinhoc-186_192_2.png?optimize=N" alt="MÁY TÍNH XÁCH TAY ACER AS E5-573" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_tinhoc-186_192_2.png?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/phan-mem-microsoft-office-365-personal.html"> <img data-original="images/companies/1/Design/T11_2015/bigbang2015/office365-186x192.jpg?optimize=N" alt="PHẦN MỀM MICROSOFT OFFICE 365" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/bigbang2015/office365-186x192.jpg?optimize=N"> </a></div>
+</div>
+</div>
+</div>
+<div id="ascrail2005" class="nicescroll-rails" style="width: 7px; z-index: 999980; cursor: default; position: absolute; top: 0px; left: -7px; height: 442px; display: none;"><div style="position: relative; top: 0px; float: right; width: 5px; height: 0px; border: 1px solid rgb(255, 255, 255); border-radius: 5px; background-color: rgb(66, 66, 66); background-clip: padding-box;"></div></div><div id="ascrail2005-hr" class="nicescroll-rails" style="height: 7px; z-index: 999980; top: 435px; left: 0px; position: absolute; cursor: default; display: none;"><div style="position: relative; top: 0px; height: 5px; width: 0px; border: 1px solid rgb(255, 255, 255); border-radius: 5px; background-color: rgb(66, 66, 66); background-clip: padding-box;"></div></div></div>
+</li>
+<li class="level1 smn-kythuatso"><a href="/ky-thuat-so/"><i class="sprite sprite-icon-kythuatso"></i><span>Kỹ thuật số</span></a>
+<div class="sub-menu1" style="width: 762px;">
+<div class="sub-menu-left">
+<ul class="sub-menu2" tabindex="5006" style="overflow: hidden; outline: none;">
+may-anh-chuyen-nghiep/">Máy ảnh ống kính rời</a></li>
+may-anh-ky-thuat-so/">Máy ảnh du lịch</a></li>
+may-quay-phim/">Máy quay phim</a></li>
+camera-quan-sat/">Camera quan sát</a></li>
+may-ghi-am/">Máy ghi âm</a></li>
+may-chup-anh-lay-lien/">Máy chụp ảnh lấy liền</a></li>
+may-nghe-nhac-mp3-mp4/">Máy nghe nhạc MP3/MP4</a></li>
+thiet-bi-giai-tri/">Thiết bị giải trí</a></li>
+phu-kien-ky-thuat-so/">Phụ Kiện Kỹ Thuật Số</a></li>
+</ul>
+<ul class="more">
+ky-thuat-so/"><span class="view-all">Xem tất cả</span></a></li>
+</ul>
+</div>
+<div class="sub-menu-right">
+<div class="sub-menu-right-wrap">
+<div class="sub-menu-right-banner-top"><a href="http://www.nguyenkim.com/may-anh-chuyen-nghiep-canon-eos-700d-ong-kinh-roi-18-55-is-stm.html?position=Banner_cate_tang_kts "> <img data-original="images/companies/1/Design/2016/T1/Banner/20160105_homecate-kts_bigbang.png?optimize=N" alt="MÁY ẢNH CANON EOS 700D 18-55 IS STM" class="imagelazyload-menu subbanner-right-top-item-image" style="display: inline;" src="images/companies/1/Design/2016/T1/Banner/20160105_homecate-kts_bigbang.png?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom">
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/may-anh-nikon-di.camera-d5300-bk-w-18-55-vrii-kit.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_kts-186_192_1.png?optimize=N" alt="MÁY ẢNH CHUYÊN NGHIỆP NIKON D5300" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_kts-186_192_1.png?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/may-anh-chuyen-nghiep-canon-eos-750d-ong-kinh-roi-18-55-is-stm.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_kts-186_192_2n.png?optimize=N" alt="MÁY ẢNH CHUYÊN NGHIỆP CANON EOS 750D" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_kts-186_192_2n.png?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/may-anh-chuyen-nghiep-nikon-d3300-ong-kinh-roi-18-55-vrii.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_kts-186_192_3.png?optimize=N" alt="MÁY ẢNH NIKON DI.CAMERA D3300" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_kts-186_192_3.png?optimize=N"> </a></div>
+</div>
+</div>
+</div>
+<div id="ascrail2006" class="nicescroll-rails" style="width: 7px; z-index: 999980; cursor: default; position: absolute; top: 0px; left: -7px; height: 442px; display: none;"><div style="position: relative; top: 0px; float: right; width: 5px; height: 0px; border: 1px solid rgb(255, 255, 255); border-radius: 5px; background-color: rgb(66, 66, 66); background-clip: padding-box;"></div></div><div id="ascrail2006-hr" class="nicescroll-rails" style="height: 7px; z-index: 999980; top: 435px; left: 0px; position: absolute; cursor: default; display: none;"><div style="position: relative; top: 0px; height: 5px; width: 0px; border: 1px solid rgb(255, 255, 255); border-radius: 5px; background-color: rgb(66, 66, 66); background-clip: padding-box;"></div></div></div>
+</li>
+<li class="level1 smn-thietbivp"><a href="/thiet-bi-van-phong/"><i class="sprite sprite-icon-thietbivanphong"></i><span>Thiết bị văn phòng</span></a>
+<div class="sub-menu1" style="width: 762px;">
+<div class="sub-menu-left">
+<ul class="sub-menu2" tabindex="5007" style="overflow: hidden; outline: none;">
+may-in-van-phong/">Máy in</a></li>
+may-scan/">Máy scan</a></li>
+may-chieu/">Máy chiếu</a></li>
+may-fax-da-nang/">Máy fax</a></li>
+may-huy-giay/">Máy hủy giấy</a></li>
+may-dem-tien/">Máy đếm tiền</a></li>
+tu-dien-dien-tu/">Từ điển điện tử</a></li>
+may-tinh-bo-tui/">Máy tính bỏ túi</a></li>
+may-in-bill/">Máy in Bill</a></li>
+may-quet-barcode/">Máy quét Barcode</a></li>
+phu-kien-thiet-bi-van-phong/">Phụ Kiện Văn Phòng</a></li>
+</ul>
+<ul class="more">
+thiet-bi-van-phong/"><span class="view-all">Xem tất cả</span></a></li>
+</ul>
+</div>
+<div class="sub-menu-right">
+<div class="sub-menu-right-wrap">
+<div class="sub-menu-right-banner-top"><a href="http://www.nguyenkim.com/may-in-van-phong?position=Banner_cate_tang_tbvp "> <img data-original="images/companies/1/Design/2016/T1/Banner/NK_shop_board_561x284.jpg?optimize=N" alt="Máy In Văn Phòng" class="imagelazyload-menu subbanner-right-top-item-image" style="display: inline;" src="images/companies/1/Design/2016/T1/Banner/NK_shop_board_561x284.jpg?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom">
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/may-in-laser-canon-imageclass-lbp6030.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_tbvp-186_192_1.png?optimize=N" alt="MÁY IN CANON LASER LBP6030" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_tbvp-186_192_1.png?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/may-in-samsung-sl-m2825nd.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_tbvp-186_192_2.png?optimize=N" alt="MÁY IN LASER SAMSUNG SL-M2825ND" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_tbvp-186_192_2.png?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/may-in-canon-da-chuc-nang-mf3010-ae.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_tbvp-186_192_3.png?optimize=N" alt="MÁY IN LASER CANON MF3010" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_tbvp-186_192_3.png?optimize=N"> </a></div>
+</div>
+</div>
+</div>
+<div id="ascrail2007" class="nicescroll-rails" style="width: 7px; z-index: 999980; cursor: default; position: absolute; top: 0px; left: -7px; height: 442px; display: none;"><div style="position: relative; top: 0px; float: right; width: 5px; height: 0px; border: 1px solid rgb(255, 255, 255); border-radius: 5px; background-color: rgb(66, 66, 66); background-clip: padding-box;"></div></div><div id="ascrail2007-hr" class="nicescroll-rails" style="height: 7px; z-index: 999980; top: 435px; left: 0px; position: absolute; cursor: default; display: none;"><div style="position: relative; top: 0px; height: 5px; width: 0px; border: 1px solid rgb(255, 255, 255); border-radius: 5px; background-color: rgb(66, 66, 66); background-clip: padding-box;"></div></div></div>
+</li>
+<li class="level1 smn-dienco"><a href="/dien-co/"><i class="sprite sprite-icon-dienco"></i><span>Điện cơ</span></a>
+<div class="sub-menu1" style="width: 762px;">
+<div class="sub-menu-left">
+<ul class="sub-menu2" tabindex="5008" style="overflow: hidden; outline: none;">
+may-khoan/">Máy khoan</a></li>
+may-han-dien/">Máy hàn điện</a></li>
+may-cat-gach/">Máy cắt gạch</a></li>
+may-bom-nuoc/">Máy bơm nước</a></li>
+may-phat-dien/">Máy phát điện</a></li>
+may-phun-xit-rua/">Máy phun xịt rửa</a></li>
+<li><a href="may-cua-may-mai">Máy cưa - Máy mài</a></li>
+ket-sat/">Két sắt</a></li>
+o-khoa/">Ổ khóa</a></li>
+den-pin/">Đèn pin</a></li>
+thang-nhom/">Thang nhôm</a></li>
+</ul>
+<ul class="more">
+dien-co/"><span class="view-all">Xem tất cả</span></a></li>
+</ul>
+</div>
+<div class="sub-menu-right">
+<div class="sub-menu-right-wrap">
+<div class="sub-menu-right-banner-top"><a href="http://www.nguyenkim.com/may-bom-nuoc-day-cao-panasonic-gp-129jxk-sv5.html?position=Banner_cate_tang_dc "><img data-original="images/companies/1/Design/2016/T1/Newsletter/291/20160128_homecate-dienco.png?optimize=N" alt="MÁY BƠM NƯỚC ĐẨY CAO PANASONIC GP-129JXK-SV5" class="imagelazyload-menu subbanner-right-top-item-image" style="display: inline;" src="images/companies/1/Design/2016/T1/Newsletter/291/20160128_homecate-dienco.png?optimize=N"></a></div>
+<div class="sub-menu-right-banner-bottom">
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/may-cua-dia-makita-5806b.html"><img data-original="images/companies/1/Design/T11_2015/banner/cate-small-3-diencon.png?optimize=N" alt="" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/cate-small-3-diencon.png?optimize=N"></a></div>
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/on-ap-shuanshin-1kva-sh-1168j.html"><img data-original="images/companies/1/Design/T11_2015/banner/cate-small-2-diencon.png?optimize=N" alt="" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/cate-small-2-diencon.png?optimize=N"></a></div>
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/may-khoan-maktec-mt606.html"><img data-original="images/companies/1/Design/T11_2015/banner/cate-small-1-diencon.png?optimize=N" alt="" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/cate-small-1-diencon.png?optimize=N"></a></div>
+</div>
+</div>
+</div>
+<div id="ascrail2008" class="nicescroll-rails" style="width: 7px; z-index: 999980; cursor: default; position: absolute; top: 0px; left: -7px; height: 442px; display: none;"><div style="position: relative; top: 0px; float: right; width: 5px; height: 0px; border: 1px solid rgb(255, 255, 255); border-radius: 5px; background-color: rgb(66, 66, 66); background-clip: padding-box;"></div></div><div id="ascrail2008-hr" class="nicescroll-rails" style="height: 7px; z-index: 999980; top: 435px; left: 0px; position: absolute; cursor: default; display: none;"><div style="position: relative; top: 0px; height: 5px; width: 0px; border: 1px solid rgb(255, 255, 255); border-radius: 5px; background-color: rgb(66, 66, 66); background-clip: padding-box;"></div></div></div>
+</li>
+<li class="level1 smn-phukien"><a href="/san-pham-phu-kien/"><i class="sprite sprite-icon-phukien"></i><span>Phụ kiện</span></a>
+<div class="sub-menu1" style="width: 762px;">
+<div class="sub-menu-left">
+<ul class="sub-menu2" tabindex="5009" style="overflow: hidden; outline: none;">
+phu-kien-dien-tu/">Phụ kiện điện tử</a></li>
+phu-kien-dien-thoai/">Phụ kiện điện thoại</a></li>
+phu-kien-thiet-bi-van-phong/">Phụ kiện văn phòng</a></li>
+phu-kien-ky-thuat-so/">Phụ kiện kỹ thuật số</a></li>
+phu-kien-tin-hoc/">Phụ kiện tin học</a></li>
+phu-kien/">Phụ kiện Apple</a></li>
+phu-kien-may-tinh-bang/">Phụ kiện máy tính bảng</a></li>
+</ul>
+<ul class="more">
+phu-kien/"><span class="view-all">Xem tất cả</span></a></li>
+</ul>
+</div>
+<div class="sub-menu-right">
+<div class="sub-menu-right-wrap">
+<div class="sub-menu-right-banner-top"><a href="http://www.nguyenkim.com/chuot-quang-konig-kn515.html?position=Banner_cate_tang_pk "><img data-original="images/companies/1/Design/2016/T1/Banner/20160105_homecate-phukien.png?optimize=N" alt="CHUỘT KHÔNG DÂY KONIG KN515" class="imagelazyload-menu subbanner-right-top-item-image" style="display: inline;" src="images/companies/1/Design/2016/T1/Banner/20160105_homecate-phukien.png?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom">
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/tai-nghe-genius-ghp-200v-den.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_PHUKIEN-186_192_1n.png?optimize=N" alt="TAI NGHE GENIUS GHP-200V" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_PHUKIEN-186_192_1n.png?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/o-cung-di-dong-apacer-ah334-16gb.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_PHUKIEN-186_192_2.png?optimize=N" alt="Ổ CỨNG DI ĐỘNG APACER AH334" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_PHUKIEN-186_192_2.png?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/tan-nhiet-deepcool-n30.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_PHUKIEN-186_192_3.png?optimize=N" alt="TẢN NHIỆT DEEPCOOL N30" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_PHUKIEN-186_192_3.png?optimize=N"> </a></div>
+</div>
+</div>
+</div>
+<div id="ascrail2009" class="nicescroll-rails" style="width: 7px; z-index: 999980; cursor: default; position: absolute; top: 0px; left: -7px; height: 442px; display: none;"><div style="position: relative; top: 0px; float: right; width: 5px; height: 0px; border: 1px solid rgb(255, 255, 255); border-radius: 5px; background-color: rgb(66, 66, 66); background-clip: padding-box;"></div></div><div id="ascrail2009-hr" class="nicescroll-rails" style="height: 7px; z-index: 999980; top: 435px; left: 0px; position: absolute; cursor: default; display: none;"><div style="position: relative; top: 0px; height: 5px; width: 0px; border: 1px solid rgb(255, 255, 255); border-radius: 5px; background-color: rgb(66, 66, 66); background-clip: padding-box;"></div></div></div>
+</li>
+<li class="level1 smn-lamdep"><a href="/suc-khoe-va-lam-dep/"><i class="sprite sprite-icon-suckhoelamdep"></i><span>Sức khỏe làm đẹp</span></a>
+<div class="sub-menu1" style="width: 762px;">
+<div class="sub-menu-left">
+<ul class="sub-menu2" tabindex="5010" style="overflow: hidden; outline: none;">
+may-say-toc/">Máy sấy tóc</a></li>
+may-cao-rau 
+can-suc-khoe
+thiet-bi-y-te
+may-massage
+may-tap-da-nang
+suc-khoe-va-lam-dep/"><span class="view-all">Xem tất cả</span></a></li>
+</ul>
+</div>
+<div class="sub-menu-right">
+<div class="sub-menu-right-wrap">
+<div class="sub-menu-right-banner-top"><a href="http://www.nguyenkim.com/may-say-toc/?position=Banner_cate_tang_ld "> <img data-original="images/companies/1/Design/T11_2015/banner/banner-lamdep.png?optimize=N" alt="Máy Sấy Tóc" class="imagelazyload-menu subbanner-right-top-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/banner-lamdep.png?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom">
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/massage-bung-buheung-hmo-2005lb.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_skld-186_192_1.png?optimize=N" alt="MÁY MASSAGE BỤNG BUHEUNG HMO-2005LB" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_skld-186_192_1.png?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/may-tap-da-nang-buheung-mk-412.html"> <img data-original="images/companies/1/Design/T11_2015/banner/2015_cate_home_skld_186_192_2.png?optimize=N" alt="MÁY TẬP ĐA NĂNG BUHEUNG MK-412" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="images/companies/1/Design/T11_2015/banner/2015_cate_home_skld_186_192_2.png?optimize=N"> </a></div>
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/dem-ghe-massage-buheung-rt-2010.html"> <img data-original="http://www.nguyenkim.com/images/companies/1/Design/T11_2015/banner/2015_cate_home_skld-186_192_3.png?optimize=N" alt="ĐỆM GHẾ MASSAGE BUHEUNG RT-2010" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="http://www.nguyenkim.com/images/companies/1/Design/T11_2015/banner/2015_cate_home_skld-186_192_3.png?optimize=N"> </a></div>
+</div>
+</div>
+</div>
+<div id="ascrail2010" class="nicescroll-rails" style="width: 7px; z-index: 999980; cursor: default; position: absolute; top: 0px; left: -7px; height: 442px; display: none;"><div style="position: relative; top: 0px; float: right; width: 5px; height: 0px; border: 1px solid rgb(255, 255, 255); border-radius: 5px; background-color: rgb(66, 66, 66); background-clip: padding-box;"></div></div><div id="ascrail2010-hr" class="nicescroll-rails" style="height: 7px; z-index: 999980; top: 435px; left: 0px; position: absolute; cursor: default; display: none;"><div style="position: relative; top: 0px; height: 5px; width: 0px; border: 1px solid rgb(255, 255, 255); border-radius: 5px; background-color: rgb(66, 66, 66); background-clip: padding-box;"></div></div></div>
+</li>
+<li class="level1 smn-bachhoa"><a href="/bach-hoa/"><i class="sprite sprite-icon-bach-hoa"></i><span>Bách hóa</span></a>
+<div class="sub-menu1" style="width: 762px;">
+<div class="sub-menu-left">
+<ul class="sub-menu2" tabindex="5011" style="overflow: hidden; outline: none;">
+goi/">Gối</a></li>
+valy/">Vali</a></li>
+ba-lo/">Ba lô</a></li>
+men/">Mền</a></li>
+hoa-my-pham/">Hóa mỹ phẩm</a></li>
+bo-dra-trai-giuong-va-ao-goi/">Bộ drap trải giường và áo gối</a></li>
+</ul>
+<ul class="more">
+bach-hoa/"><span class="view-all">Xem tất cả</span></a></li>
+</ul>
+</div>
+<div class="sub-menu-right">
+<div class="sub-menu-right-wrap">
+<div class="sub-menu-right-banner-top"><a href="http://www.nguyenkim.com/hoa-my-pham/?position=Banner_cate_tang_bh "><img data-original="http://www.nguyenkim.com/images/companies/1/Design/T11_2015/banner/cate-big-bachhoan.png?optimize=N" alt="" class="imagelazyload subbanner-right-top-item-image" style="display: inline;" src="http://www.nguyenkim.com/images/companies/1/Design/T11_2015/banner/cate-big-bachhoan.png?optimize=N"></a></div>
+<div class="sub-menu-right-banner-bottom">
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/bo-dra-trai-giuong-ao-goi-harumi-kt-160200cm.html"><img data-original="http://www.nguyenkim.com/images/companies/1/Design/T11_2015/banner/cate-small-1-bachhoan.png?optimize=N" alt="" class="imagelazyload subbanner-right-bottom-item-image" style="display: inline;" src="http://www.nguyenkim.com/images/companies/1/Design/T11_2015/banner/cate-small-1-bachhoan.png?optimize=N"></a></div>
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/goi-ep-hoi-bliss-50cmx70cm.html"><img data-original="http://www.nguyenkim.com/images/companies/1/Design/T11_2015/banner/cate-small-2-bachhoan.png?optimize=N" alt="" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="http://www.nguyenkim.com/images/companies/1/Design/T11_2015/banner/cate-small-2-bachhoan.png?optimize=N"></a></div>
+<div class="sub-menu-right-banner-bottom-item"><a href="http://www.nguyenkim.com/kem-tay-rua-da-nang-wai-kem-400gr.html"><img data-original="http://www.nguyenkim.com/images/companies/1/Design/T11_2015/banner/cate-small-3-bachhoan.png?optimize=N" alt="" class="imagelazyload-menu subbanner-right-bottom-item-image" style="display: inline;" src="http://www.nguyenkim.com/images/companies/1/Design/T11_2015/banner/cate-small-3-bachhoan.png?optimize=N"></a></div>
+</div>
+</div>
+</div>
+<div id="ascrail2011" class="nicescroll-rails" style="width: 7px; z-index: 999980; cursor: default; position: absolute; top: 0px; left: -7px; height: 442px; display: none;"><div style="position: relative; top: 0px; float: right; width: 5px; height: 0px; border: 1px solid rgb(255, 255, 255); border-radius: 5px; background-color: rgb(66, 66, 66); background-clip: padding-box;"></div></div><div id="ascrail2011-hr" class="nicescroll-rails" style="height: 7px; z-index: 999980; top: 435px; left: 0px; position: absolute; cursor: default; display: none;"><div style="position: relative; top: 0px; height: 5px; width: 0px; border: 1px solid rgb(255, 255, 255); border-radius: 5px; background-color: rgb(66, 66, 66); background-clip: padding-box;"></div></div></div>
+</li>
+</ul>
